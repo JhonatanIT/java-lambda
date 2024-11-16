@@ -80,3 +80,7 @@ $ curl -s https://xxxxxxx.execute-api.us-west-2.amazonaws.com/Prod/ping | python
     "pong": "Hello, World!"
 }
 ```
+
+## References
+
+https://www.youtube.com/watch?v=nRKb3WEO-dI&ab_channel=TheDevWorld-bySergioLema
